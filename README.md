@@ -67,6 +67,14 @@ DiagnostAI aims to:
 
 ---
 
+## 🔗 References
+
+- **Harrison's Principles of Internal Medicine**  
+  [Google Drive Link (PDF)](https://drive.google.com/file/d/0B95fca09JlkYZGRkNGQ5NjItN2EyYi00NWU2LWJmMzYtMGUzMTRkZjNmYjlm/edit?resourcekey=0-vKo5sL83V4OkpzpgGJkqkw)  
+  *(Shared for educational use only. All rights belong to the respective copyright holders.)*
+
+---
+
 ## ⚠️ Disclaimer
 
 DiagnostAI is an educational tool. It is NOT a replacement for professional judgment or clinical expertise. Always consult standard references and qualified professionals for real-world medical decisions.
